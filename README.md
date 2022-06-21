@@ -27,6 +27,9 @@ Analista Programador/Desarrollador Web Jr
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
+###Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoivg98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/diegoivg98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diego-vistoso/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
