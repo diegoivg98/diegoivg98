@@ -27,7 +27,9 @@ Analista Programador/Desarrollador Web Jr
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-###Stats:
+### Stats:
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoivg98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials
