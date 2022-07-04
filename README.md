@@ -9,7 +9,7 @@ Analista Programador/Desarrollador Web Jr
 
 * 🌍  I'm based in Chile
 * ✉️  You can contact me at [diegoivg98@gmail.com](mailto:diegoivg98@gmail.com)
-* 🧠  I'm learning Reactjs
+* 🧠  I'm learning React.js and consume API
 
 ### Skills
 
