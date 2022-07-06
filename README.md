@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋 My name is Diego Vistoso </h1>
 
-Analista Programador/Desarrollador Web Jr
+Desarrollador Web Jr.
 -----------------------------------------
 
 * 🌍  I'm based in Chile
