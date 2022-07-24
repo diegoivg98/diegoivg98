@@ -3,8 +3,8 @@
 </div>
 
 <h1 align="center">Hola 👋 Mi nombre es Diego Vistoso </h1>
+<h3 align="center">Desarrollador Web Jr.</h3>
 
-Desarrollador Web Jr.
 -----------------------------------------
 
 * 🌍  Soy de Chile.
