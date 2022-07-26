@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hola 👋 Mi nombre es Diego Vistoso </h1>
-<h3 align="center">Desarrollador Web Jr.</h3>
+<h3 align="center">Desarrollador Web Juniorr.</h3>
 
 -----------------------------------------
 
