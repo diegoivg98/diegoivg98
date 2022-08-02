@@ -9,7 +9,7 @@
 
 * 🌍  Soy de Chile.
 * ✉️  You can contact me at [diegoivg98@gmail.com](mailto:diegoivg98@gmail.com).
-* 🧠  Actualmente aprendiendo React JS.
+* 🧠  Actualmente aprendiendo React JS en OpenBootCamp.
 
 ### Lenguajes y Herramientas
 
