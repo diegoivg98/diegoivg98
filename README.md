@@ -40,7 +40,7 @@
 </p>
 ----------------------------------------------------------------------------------------------
 
-### Other
+### Tools
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="git" width="60" height="60"/> </a> 
