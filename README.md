@@ -12,7 +12,7 @@
 * 🌍  Soy de Chile.
 * Hobbies: 🎮Videojuegos🎮, 🎸Guitarra/Bajo🎸 y grabar covers
 * ✉️  Me puedes contactar: [diegoivg98@gmail.com](mailto:diegoivg98@gmail.com).
-* 🧠  Actualmente aprendiendo React JS en OpenBootCamp.
+* 🧠  Actualmente aprendiendo ReactJS y Laravel en OpenBootCamp.
 
 ### SKILL
 
