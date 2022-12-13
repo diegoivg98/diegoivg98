@@ -33,7 +33,7 @@
 </p>
 ----------------------------------------------------------------------------------------------
 
-### Bases de datos
+### BD
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
@@ -49,13 +49,19 @@
 </p>
 ----------------------------------------------------------------------------------------------
 
-
 ### Tools
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="git" width="60" height="60"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" alt="ubuntu" width="60" height="60"/> </a> 
 </p>
+---------------------------------------------------------------------------------------------
+
+### Learning
+<p align="left">
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
+</p>
+
 ---------------------------------------------------------------------------------------------
 
 ### Redes Sociales/Contacto
