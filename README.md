@@ -72,4 +72,5 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoivg98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoivg98&show_icons=true&locale=en&layout=compact" alt="diegoivg98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegoivg98&show_icons=true&locale=en" alt="diegoivg98" /></p>
