@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hobbies: 🎮Videojuegos🎮, 🎸Guitarra/Bajo🎸 y grabar covers<br>✉️ Me puedes contactar: diegoivg98@gmail.com.<br>🧠 Actualmente aprendiendo ReactJS y Laravel en OpenBootCamp.<br>
+Hobbies: 🎮Videojuegos🎮, 🎸Guitarra/Bajo🎸 y grabar covers<br>✉️ Me puedes contactar: diegoivg98@gmail.com.<br>🧠 Actualmente aprendiendo ReactJS en OpenBootCamp.<br>
 
 
 ## 🌐 Socials:
