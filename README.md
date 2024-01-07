@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hobbies: 🎮Videojuegos🎮, 🎸Guitarra/Bajo🎸 y grabar covers<br>✉️ Me puedes contactar: diegoivg98@gmail.com.<br>🧠 Actualmente aprendiendo ReactJS.<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diegoivg98.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-vistoso) 
 
